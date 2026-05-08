@@ -1,0 +1,2002 @@
+property_id,property_type,built_form,construction_age,tenure,main_fuel,epc_rating,mains_gas,local_authority
+P0000,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0001,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0003,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0004,House,Mid-Terrace,1996-2002,Owner-occupied,Electricity,D,No,Nottingham
+P0005,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P0009,House,Semi-Detached,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P0010,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0013,Flat,Not Recorded,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0015,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0017,Flat,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0018,Maisonette,Not Recorded,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0020,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0021,Flat,Semi-Detached,1930-1949,Rented (private),Electricity,C,No,Nottingham
+P0022,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0024,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0025,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0026,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0027,House,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0028,House,End-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0029,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0030,Maisonette,Not Recorded,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0031,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0032,House,Semi-Detached,1950-1966,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P0033,Flat,Semi-Detached,1976-1982,Rented (private),Electricity,D,No,Nottingham
+P0035,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P0036,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0037,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0038,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0039,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0040,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0042,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0043,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P0045,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0046,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0047,Flat,Semi-Detached,2007-2011,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P0048,Flat,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0049,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0050,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0051,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0052,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0053,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0056,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0057,Flat,Not Recorded,1983-1990,Rented (private),Electricity,C,No,Nottingham
+P0058,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0059,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0060,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0061,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0062,House,End-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0063,House,Semi-Detached,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0064,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0065,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P0066,Flat,Not Recorded,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0068,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0069,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0070,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0071,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0072,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0076,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0077,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0078,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P0079,House,Mid-Terrace,1976-1982,Rented (private),Community Heating,D,Yes,Nottingham
+P0081,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0083,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0085,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0086,Flat,Semi-Detached,1967-1975,Rented (social),Community Heating,C,No,Nottingham
+P0088,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,E,Yes,Nottingham
+P0090,House,End-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0091,House,Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0092,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0093,Bungalow,Detached,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0095,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0097,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0098,House,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0099,Flat,Mid-Terrace,1996-2002,Owner-occupied,Electricity,D,No,Nottingham
+P0100,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0101,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0102,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0103,House,End-Terrace,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0104,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0106,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P0108,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0109,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0110,House,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0111,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0112,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0113,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0115,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0116,House,Mid-Terrace,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P0118,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0119,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0120,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0121,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0123,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0124,Flat,Detached,1900-1929,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,D,Yes,Nottingham
+P0125,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0126,House,End-Terrace,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P0127,House,Semi-Detached,1983-1990,Owner-occupied,Electricity,E,No,Nottingham
+P0129,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0130,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0133,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0134,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0135,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0136,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0138,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0139,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0142,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0143,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0146,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0147,House,End-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0148,House,Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0149,House,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P0151,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P0153,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P0156,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0158,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0160,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P0162,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0164,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0165,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0167,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0168,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0169,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0170,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0172,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0173,House,Semi-Detached,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0174,Flat,End-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0175,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0176,Bungalow,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0177,Flat,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0178,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0179,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0180,House,End-Terrace,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P0181,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0182,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0184,House,Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0185,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0186,House,Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0187,House,Detached,1967-1975,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0188,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0189,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0192,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0193,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P0194,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0195,Flat,Semi-Detached,1900-1929,Rented (private),Electricity,E,No,Nottingham
+P0196,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0197,Flat,Not Recorded,1967-1975,Rented (social),Community Heating,C,No,Nottingham
+P0200,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0204,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0206,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P0208,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0210,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0211,House,End-Terrace,1967-1975,Rented (social),Community Heating,C,No,Nottingham
+P0213,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0214,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0215,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0216,House,End-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0217,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0218,Maisonette,Not Recorded,1996-2002,Owner-occupied,Electricity,C,No,Nottingham
+P0219,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0220,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0222,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0223,House,Semi-Detached,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P0225,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0226,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0227,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0228,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0229,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0230,House,End-Terrace,1967-1975,Rented (social),Community Heating,C,No,Nottingham
+P0231,Bungalow,Mid-Terrace,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0232,House,Semi-Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0233,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0234,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0236,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0237,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0239,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0240,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0241,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0242,Flat,Semi-Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0243,House,End-Terrace,1967-1975,Rented (social),Community Heating,C,Yes,Nottingham
+P0244,House,End-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0247,Flat,Mid-Terrace,2007-2011,Owner-occupied,Electricity,B,No,Nottingham
+P0248,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0249,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0250,House,Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0251,Flat,Enclosed Mid-Terrace,1967-1975,Rented (private),Electricity,D,No,Nottingham
+P0252,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0253,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0254,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0255,House,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0256,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0257,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0258,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0259,Flat,Mid-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0260,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0262,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0263,House,End-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0264,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0265,House,Semi-Detached,1976-1982,Rented (social),Community Heating,E,No,Nottingham
+P0267,Flat,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0268,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0269,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0270,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0271,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0272,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0273,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,B,Yes,Nottingham
+P0274,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0275,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0276,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0279,Flat,Semi-Detached,2007-2011,Owner-occupied,Mains Gas,B,No,Nottingham
+P0280,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0282,Bungalow,Detached,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0284,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0286,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0287,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0288,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0289,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0290,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,No,Nottingham
+P0291,Flat,Semi-Detached,1900-1929,Rented (private),Electricity,E,No,Nottingham
+P0292,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0293,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0295,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0297,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0298,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0300,House,Mid-Terrace,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P0301,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0302,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0303,Flat,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P0304,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0305,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0306,Flat,Not Recorded,2003-2006,Rented (private),Mains Gas,C,Yes,Nottingham
+P0307,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0308,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0311,House,Detached,2007-2011,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0312,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0313,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0314,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0315,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0316,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0317,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0318,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0319,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0320,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P0321,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0322,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0324,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0325,Flat,Not Recorded,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0326,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0329,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0330,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0331,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0332,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0333,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0335,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0336,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0338,Flat,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,No,Nottingham
+P0339,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0340,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0342,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0343,Bungalow,Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0344,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0345,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0347,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0348,Bungalow,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0349,Flat,Semi-Detached,1967-1975,Owner-occupied,Electricity,D,No,Nottingham
+P0350,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0351,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0352,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0353,Flat,End-Terrace,1950-1966,Rented (social),Electricity,D,No,Nottingham
+P0354,Flat,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0355,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0358,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0359,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0360,Bungalow,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0361,Flat,Semi-Detached,1996-2002,Owner-occupied,Electricity,B,No,Nottingham
+P0362,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0363,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0364,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0365,House,Detached,2012 onwards,Rented (social),Mains Gas,B,Yes,Nottingham
+P0366,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,No,Nottingham
+P0367,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0368,Flat,Not Recorded,1900-1929,Rented (private),Electricity,D,No,Nottingham
+P0369,Flat,Not Recorded,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0371,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0373,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P0374,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0375,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0376,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0377,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0378,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0380,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0381,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0383,House,End-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0384,House,Semi-Detached,1950-1966,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P0385,Flat,End-Terrace,1983-1990,Rented (social),Mains Gas,C,No,Nottingham
+P0386,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0387,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0388,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0389,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0390,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0392,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0393,House,Semi-Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0394,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0396,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0397,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0398,House,End-Terrace,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P0400,Bungalow,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0401,House,End-Terrace,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P0402,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0403,Flat,Mid-Terrace,1967-1975,Rented (private),Electricity,C,No,Nottingham
+P0404,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P0405,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0406,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0407,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0409,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0410,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0411,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0412,Flat,Semi-Detached,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P0413,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0414,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0415,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0416,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P0417,Flat,Not Recorded,2007-2011,Owner-occupied,Electricity,B,No,Nottingham
+P0418,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0419,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0421,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0422,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0423,House,Semi-Detached,before 1900,Rented (social),Mains Gas,D,Yes,Nottingham
+P0424,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0425,House,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0426,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0427,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0428,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0430,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0431,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0432,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0433,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0434,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0435,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0436,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0437,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0439,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0441,House,Mid-Terrace,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0442,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P0443,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0445,House,Mid-Terrace,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0446,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0448,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0449,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0451,House,End-Terrace,1976-1982,Rented (social),Community Heating,D,No,Nottingham
+P0452,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0453,Flat,Not Recorded,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P0457,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0458,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0459,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0461,Flat,Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0462,Flat,Not Recorded,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0463,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0465,House,Detached,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0467,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0469,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0470,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0471,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P0472,House,Detached,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0473,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0475,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0476,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0477,Flat,End-Terrace,1967-1975,Rented (social),Electricity,C,No,Nottingham
+P0479,House,Detached,2007-2011,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0480,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0481,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0482,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0483,Bungalow,Detached,1991-1995,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0484,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0485,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0486,House,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0487,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0488,Flat,Semi-Detached,1900-1929,Rented (private),Electricity,C,Yes,Nottingham
+P0489,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0491,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0492,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0493,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0495,Flat,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0496,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0497,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0498,Maisonette,End-Terrace,1950-1966,Rented (social),Electricity,F,No,Nottingham
+P0499,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0500,Flat,Mid-Terrace,1900-1929,Owner-occupied,Electricity,D,No,Nottingham
+P0501,House,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0502,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0503,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P0504,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0505,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0506,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0507,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0510,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P0511,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0512,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0514,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0515,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0517,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0518,Flat,End-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0519,Bungalow,Semi-Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0520,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0521,Flat,Mid-Terrace,1967-1975,Rented (social),Electricity,D,No,Nottingham
+P0522,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P0523,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0524,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0525,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0526,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0527,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0528,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0529,Maisonette,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0530,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0531,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0532,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0533,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0534,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0535,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0537,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0539,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0540,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0541,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0542,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0543,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0544,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0545,House,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0546,House,Mid-Terrace,1996-2002,Rented (private),Mains Gas,C,Yes,Nottingham
+P0547,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P0548,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0549,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0550,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0552,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0553,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0554,House,Mid-Terrace,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0556,House,Detached,2012-2021,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P0558,House,Semi-Detached,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P0559,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P0561,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0562,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0563,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0564,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0565,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P0566,House,End-Terrace,1983-1990,Rented (social),Mains Gas,B,Yes,Nottingham
+P0567,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0568,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0569,Bungalow,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0571,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P0572,Flat,Semi-Detached,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0573,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0574,Flat,Mid-Terrace,1967-1975,Rented (private),Electricity,C,No,Nottingham
+P0575,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0578,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P0579,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0580,Flat,Semi-Detached,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0581,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0582,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P0583,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0584,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0585,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0586,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0587,House,Detached,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0588,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0589,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0590,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0591,House,Semi-Detached,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0592,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0594,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0595,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0596,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0597,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0598,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0600,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0601,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0604,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0605,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0607,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0608,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0609,Flat,Mid-Terrace,2003-2006,Rented (private),Electricity,B,Yes,Nottingham
+P0610,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0611,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P0612,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0613,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0614,House,End-Terrace,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0615,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P0616,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0617,Bungalow,Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0618,Bungalow,End-Terrace,1900-1929,Owner-occupied,Electricity,E,No,Nottingham
+P0619,Flat,Mid-Terrace,2012 onwards,Rented (social),Mains Gas,B,No,Nottingham
+P0620,House,End-Terrace,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0621,House,Semi-Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0622,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P0624,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0625,Flat,Mid-Terrace,2007-2011,Rented (private),Electricity,C,No,Nottingham
+P0626,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0628,House,Detached,1996-2002,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0629,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0630,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0631,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0632,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0633,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0634,Maisonette,Detached,2012 onwards,Rented (social),Mains Gas,C,No,Nottingham
+P0635,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0636,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0637,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P0638,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0640,Bungalow,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0641,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0643,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0644,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0645,Bungalow,Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0646,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0647,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0648,House,Semi-Detached,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0649,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0650,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0652,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P0653,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0654,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0655,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0656,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0657,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0658,Flat,Not Recorded,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0659,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0660,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0661,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0662,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0663,Maisonette,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0664,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0665,Flat,Not Recorded,2007-2011,Rented (private),Mains Gas,C,Yes,Nottingham
+P0666,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0667,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0670,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0672,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0673,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0674,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0675,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0677,Flat,Not Recorded,1900-1929,Rented (private),Electricity,D,No,Nottingham
+P0678,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0679,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0680,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0683,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0684,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0685,House,End-Terrace,1967-1975,Owner-occupied,Electricity,F,No,Nottingham
+P0686,House,Semi-Detached,1900-1929,Rented (private),Electricity,B,No,Nottingham
+P0687,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0688,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0689,House,Detached,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0690,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,E,Yes,Nottingham
+P0691,Bungalow,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0692,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0694,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,E,Yes,Nottingham
+P0695,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0697,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0698,Flat,Not Recorded,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0699,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0700,Flat,End-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0701,Flat,End-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P0702,Flat,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0703,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0704,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0705,Flat,Not Recorded,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0706,Bungalow,Detached,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0707,Flat,Not Recorded,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0708,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0709,Flat,Not Recorded,2003-2006,Rented (private),Electricity,D,No,Nottingham
+P0710,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0711,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0712,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0713,House,Semi-Detached,2012 onwards,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0714,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0715,House,Semi-Detached,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0716,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0717,House,End-Terrace,2003-2006,Rented (private),Mains Gas,C,Yes,Nottingham
+P0718,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0721,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,B,Yes,Nottingham
+P0722,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0723,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0724,Flat,Not Recorded,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0725,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0726,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0728,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0729,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0730,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0731,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0732,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0735,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0736,House,Detached,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0739,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0740,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0741,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0742,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0743,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0744,Flat,Mid-Terrace,2007-2011,Owner-occupied,Electricity,C,No,Nottingham
+P0745,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0746,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0747,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0750,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P0751,Flat,Semi-Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0752,Flat,End-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0754,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0755,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0757,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0758,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0759,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0760,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P0761,House,Semi-Detached,1950-1966,Owner-occupied,Electricity,D,No,Nottingham
+P0762,Bungalow,Detached,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P0764,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0766,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0767,House,Mid-Terrace,before 1900,Owner-occupied,LPG,D,No,Nottingham
+P0769,Flat,Not Recorded,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0770,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0771,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P0772,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0773,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,B,No,Nottingham
+P0774,Flat,Mid-Terrace,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P0775,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0776,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0779,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0780,Flat,Mid-Terrace,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P0782,Flat,Not Recorded,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P0783,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0785,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0787,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0789,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P0790,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0791,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0792,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0794,Flat,Enclosed Mid-Terrace,2007-2011,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P0796,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0797,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0798,Bungalow,Mid-Terrace,1983-1990,Owner-occupied,Electricity,E,No,Nottingham
+P0799,House,Mid-Terrace,before 1900,Rented (social),Mains Gas,C,Yes,Nottingham
+P0800,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0801,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0803,Bungalow,Semi-Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0805,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0806,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0807,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0808,House,Semi-Detached,1967-1975,Owner-occupied,Community Heating,C,Yes,Nottingham
+P0809,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0810,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0811,Flat,End-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P0812,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0813,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P0814,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P0815,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0816,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0817,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P0819,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0820,Maisonette,End-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0821,Flat,Not Recorded,1996-2002,Owner-occupied,Electricity,D,No,Nottingham
+P0822,Flat,Not Recorded,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0823,Flat,Mid-Terrace,2012 onwards,Rented (private),Electricity,C,No,Nottingham
+P0824,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0825,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0826,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0827,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,A,Yes,Nottingham
+P0829,Flat,Semi-Detached,1996-2002,Owner-occupied,Electricity,C,No,Nottingham
+P0830,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0831,Flat,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0832,Flat,Detached,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P0834,Flat,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0835,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0836,House,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0838,Flat,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0840,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0842,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0843,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0846,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0847,House,End-Terrace,1950-1966,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P0848,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0849,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0851,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0853,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0854,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0855,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0856,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0857,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P0858,Maisonette,Mid-Terrace,1996-2002,Owner-occupied,Electricity,B,No,Nottingham
+P0861,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0862,Flat,End-Terrace,2012 onwards,Rented (social),Mains Gas,C,Yes,Nottingham
+P0863,House,End-Terrace,1930-1949,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P0865,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0866,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0867,Flat,Not Recorded,1976-1982,Owner-occupied,Electricity,D,No,Nottingham
+P0868,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0869,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0870,Bungalow,Detached,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0872,House,Mid-Terrace,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P0873,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0875,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,No,Nottingham
+P0876,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0879,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0880,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0882,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P0883,House,End-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0884,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0885,Flat,Mid-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P0886,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0887,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0888,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P0889,Flat,End-Terrace,1930-1949,Owner-occupied,Mains Gas,D,No,Nottingham
+P0891,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0892,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0893,Bungalow,End-Terrace,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0895,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0896,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0897,Flat,End-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P0898,Bungalow,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0900,House,Semi-Detached,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P0901,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0902,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0903,Flat,Semi-Detached,2012-2021,Owner-occupied,Electricity,C,No,Nottingham
+P0904,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0905,House,Detached,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P0906,Flat,Semi-Detached,before 1900,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P0907,Bungalow,Semi-Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0908,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0909,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0910,Maisonette,Mid-Terrace,1967-1975,Rented (social),Community Heating,C,No,Nottingham
+P0914,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0915,Maisonette,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0916,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0917,Bungalow,Mid-Terrace,1950-1966,Rented (social),Electricity,E,No,Nottingham
+P0918,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0919,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P0920,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0921,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0922,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0923,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0924,House,End-Terrace,2012-2021,Rented (private),Mains Gas,C,Yes,Nottingham
+P0925,Bungalow,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0927,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P0928,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0930,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P0931,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0932,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,No,Nottingham
+P0933,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0936,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0938,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0940,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0941,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0943,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0945,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0947,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0948,House,End-Terrace,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0949,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0950,House,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0951,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0952,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0953,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P0954,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P0955,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0956,Flat,End-Terrace,1900-1929,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,E,Yes,Nottingham
+P0958,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0959,Maisonette,Not Recorded,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P0960,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P0961,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0962,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0963,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0965,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0966,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P0967,Flat,Not Recorded,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0968,Flat,Mid-Terrace,2007-2011,Rented (private),Electricity,B,No,Nottingham
+P0969,Flat,Not Recorded,1983-1990,Rented (private),Electricity,D,No,Nottingham
+P0970,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P0971,House,Detached,1996-2002,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0973,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0974,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P0978,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P0979,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0980,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P0981,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0983,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0984,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P0987,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0988,Flat,Not Recorded,1991-1995,Rented (private),Electricity,C,No,Nottingham
+P0989,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0990,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P0991,Flat,Not Recorded,2003-2006,Rented (private),Electricity,B,No,Nottingham
+P0992,Flat,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P0993,Bungalow,End-Terrace,1976-1982,Rented (social),Community Heating,D,Yes,Nottingham
+P0994,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P0995,House,Mid-Terrace,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P0996,Maisonette,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P0997,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P0998,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P0999,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1001,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1002,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1004,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1005,House,Semi-Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1006,Flat,Enclosed Mid-Terrace,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P1007,Flat,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1008,House,Semi-Detached,1983-1990,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1009,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1010,Flat,Not Recorded,2012-2021,Rented (private),Mains Gas,C,Yes,Nottingham
+P1012,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1015,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1016,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1017,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1018,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1019,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1020,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1022,Flat,End-Terrace,1991-1995,Rented (social),Mains Gas,C,No,Nottingham
+P1023,House,Detached,1996-2002,Rented (private),Mains Gas,C,Yes,Nottingham
+P1024,Flat,Enclosed End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1025,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1026,House,Mid-Terrace,before 1900,Rented (social),Mains Gas,D,Yes,Nottingham
+P1027,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P1028,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1029,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1030,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1032,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1033,House,Semi-Detached,1996-2002,Rented (private),Mains Gas,D,Yes,Nottingham
+P1034,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1035,House,Mid-Terrace,1967-1975,Rented (social),Community Heating,D,No,Nottingham
+P1036,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1038,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1040,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1041,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1043,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1044,Maisonette,Not Recorded,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P1046,Bungalow,End-Terrace,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1047,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1049,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1051,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1052,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1053,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1054,House,Semi-Detached,1967-1975,Owner-occupied,Electricity,E,No,Nottingham
+P1055,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1056,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1060,House,Semi-Detached,1983-1990,Rented (private),Mains Gas,D,Yes,Nottingham
+P1061,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1062,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1063,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1064,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1065,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1066,House,Detached,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1067,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1068,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1069,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1070,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1073,Flat,Detached,1967-1975,Rented (social),Electricity,C,No,Nottingham
+P1074,Flat,Enclosed Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,C,No,Nottingham
+P1075,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P1076,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,No,Nottingham
+P1077,Flat,Mid-Terrace,before 1900,Rented (social),Mains Gas,D,Yes,Nottingham
+P1078,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1079,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1080,House,Mid-Terrace,1930-1949,Rented (social),Other,E,No,Nottingham
+P1081,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1082,Bungalow,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1083,Flat,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1084,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1085,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P1086,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1087,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1088,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,D,Yes,Nottingham
+P1089,Flat,Not Recorded,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P1090,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P1091,Flat,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P1092,House,End-Terrace,1900-1929,Rented (social),Mains Gas,B,Yes,Nottingham
+P1093,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1095,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P1096,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1098,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1099,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1100,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1102,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P1103,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1104,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1105,Flat,Not Recorded,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1106,House,Mid-Terrace,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1107,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1109,Flat,Mid-Terrace,2012 onwards,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1110,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1112,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1114,Flat,Not Recorded,1900-1929,Rented (private),Electricity,E,No,Nottingham
+P1115,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1116,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1119,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1120,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1123,Flat,Not Recorded,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1124,House,Detached,1930-1949,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1125,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1126,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1127,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1129,Flat,End-Terrace,1967-1975,Rented (social),Community Heating,C,Yes,Nottingham
+P1130,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1131,Flat,Not Recorded,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1132,Flat,Mid-Terrace,2012-2021,Rented (private),Electricity,C,No,Nottingham
+P1133,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1134,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1135,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1137,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1138,Flat,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1139,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1140,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1142,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1143,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P1145,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1146,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1147,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1149,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1150,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1151,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1152,Maisonette,Enclosed Mid-Terrace,1900-1929,Owner-occupied,Electricity,D,No,Nottingham
+P1154,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1155,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1156,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1157,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1158,House,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1159,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1160,House,Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1161,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1163,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1164,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1165,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1167,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P1169,Bungalow,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1171,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1173,House,Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1174,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1175,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1177,House,End-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1178,Flat,Not Recorded,1976-1982,Rented (social),Community Heating,D,No,Nottingham
+P1179,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1181,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1182,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1183,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1184,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1185,House,End-Terrace,1983-1990,Rented (private),Mains Gas,D,Yes,Nottingham
+P1186,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1188,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P1189,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1190,House,Semi-Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1191,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1192,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1193,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1194,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1195,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1196,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1198,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1200,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1201,House,Mid-Terrace,1976-1982,Rented (social),Community Heating,D,No,Nottingham
+P1202,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1204,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1205,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1206,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1207,House,End-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1208,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1209,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1211,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1212,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P1213,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,No,Nottingham
+P1214,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1215,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1216,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1219,Bungalow,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1220,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1222,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1223,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1224,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1225,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P1227,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1228,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1230,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1233,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1234,Flat,Enclosed End-Terrace,2003-2006,Rented (private),Mains Gas,B,Yes,Nottingham
+P1235,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1237,Flat,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1238,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1241,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1242,Bungalow,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1243,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1244,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P1245,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1246,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1247,House,End-Terrace,2007-2011,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1248,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P1249,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1251,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1253,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1254,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1255,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1256,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P1257,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1258,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1260,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1261,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1262,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1263,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1264,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1265,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1266,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1267,Flat,Not Recorded,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P1269,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P1270,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1271,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1275,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1276,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1277,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1278,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1280,Flat,End-Terrace,1996-2002,Rented (social),Electricity,C,No,Nottingham
+P1281,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P1282,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P1284,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1285,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1286,Flat,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1287,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1289,Flat,Not Recorded,1991-1995,Rented (social),Electricity,D,No,Nottingham
+P1290,Flat,Mid-Terrace,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1291,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1292,House,End-Terrace,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1293,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1294,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1295,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1296,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1297,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1298,House,End-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1299,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1300,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1301,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1302,House,End-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1305,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1308,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1310,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1311,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1312,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1313,House,Semi-Detached,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1314,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P1315,House,Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1317,House,End-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1318,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1319,House,End-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1321,House,Mid-Terrace,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P1322,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1323,Maisonette,Not Recorded,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1324,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1325,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1326,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1327,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1328,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1329,Flat,End-Terrace,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P1331,Bungalow,Semi-Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1334,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,B,Yes,Nottingham
+P1335,Flat,End-Terrace,1950-1966,Rented (social),Electricity,F,No,Nottingham
+P1336,House,End-Terrace,1967-1975,Owner-occupied,Electricity,E,No,Nottingham
+P1337,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P1338,Flat,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1339,Bungalow,Detached,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1340,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1342,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1343,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1344,House,Semi-Detached,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P1345,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1346,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1347,Flat,Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1348,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1349,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1351,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1352,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1353,House,Semi-Detached,1983-1990,Rented (private),Mains Gas,D,Yes,Nottingham
+P1354,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1355,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1356,House,Mid-Terrace,1996-2002,Rented (private),Mains Gas,C,Yes,Nottingham
+P1357,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,B,Yes,Nottingham
+P1358,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1359,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1360,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1361,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1362,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1363,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1364,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1365,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1366,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1367,House,Detached,2003-2006,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1368,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1369,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1370,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1372,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1373,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1374,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1377,House,End-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1378,Maisonette,Not Recorded,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1379,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1380,Flat,Not Recorded,2003-2006,Rented (private),Electricity,B,No,Nottingham
+P1381,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1382,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1383,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1384,House,End-Terrace,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1385,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1386,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1387,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1388,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1389,House,End-Terrace,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1390,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1391,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1392,Flat,End-Terrace,2012 onwards,Rented (private),Electricity,B,No,Nottingham
+P1393,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P1394,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1395,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1396,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1397,House,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1398,House,Semi-Detached,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P1399,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1400,House,Mid-Terrace,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1401,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1402,House,Semi-Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1403,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1404,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1405,House,Detached,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P1406,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P1407,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1408,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1409,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P1410,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1411,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1412,House,End-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1414,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1415,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1416,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1419,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1420,Flat,Not Recorded,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1421,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1422,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1423,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1424,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1427,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1428,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1429,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1431,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1432,House,Mid-Terrace,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1434,Flat,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1435,House,End-Terrace,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P1437,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1438,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1439,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1440,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1441,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P1442,House,Mid-Terrace,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P1443,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1444,House,Detached,2012 onwards,Rented (social),Mains Gas,B,Yes,Nottingham
+P1446,House,Detached,1976-1982,Owner-occupied,Electricity,E,No,Nottingham
+P1447,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1448,Bungalow,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1450,Flat,Semi-Detached,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P1451,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1452,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1453,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1454,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1456,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1457,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1458,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1459,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1460,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1461,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1462,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1463,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1464,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P1465,Flat,Enclosed Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,C,No,Nottingham
+P1466,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1467,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1471,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1472,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1473,House,Semi-Detached,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1474,House,End-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1475,Flat,Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1476,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1477,Flat,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1478,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1480,Flat,Semi-Detached,1900-1929,Rented (private),Electricity,C,Yes,Nottingham
+P1481,House,End-Terrace,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P1483,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1484,Flat,Not Recorded,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1487,Flat,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1488,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1489,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1490,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1491,House,End-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1492,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1493,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1494,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,B,Yes,Nottingham
+P1496,Flat,Not Recorded,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1497,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1498,Bungalow,Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1499,House,Semi-Detached,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1500,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1501,Flat,Semi-Detached,1930-1949,Rented (private),Mains Gas,E,Yes,Nottingham
+P1502,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1503,Flat,Semi-Detached,1996-2002,Rented (private),Mains Gas,C,Yes,Nottingham
+P1504,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1505,Bungalow,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1506,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1507,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1508,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1509,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1512,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1513,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1515,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1516,Maisonette,Enclosed Mid-Terrace,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P1517,House,Detached,1950-1966,Owner-occupied,Electricity,F,No,Nottingham
+P1518,Flat,Not Recorded,2007-2011,Owner-occupied,Electricity,B,No,Nottingham
+P1519,House,Semi-Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1520,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1521,Bungalow,Detached,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1522,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1523,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1524,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1525,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1526,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1527,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1528,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1529,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1531,Maisonette,Not Recorded,1900-1929,Rented (private),Electricity,E,No,Nottingham
+P1532,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1533,Flat,Not Recorded,2007-2011,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1535,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P1537,House,Semi-Detached,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P1538,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1539,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1542,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1543,Flat,Mid-Terrace,2007-2011,Rented (private),Electricity,C,No,Nottingham
+P1544,House,Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1545,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1546,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1547,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1548,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1549,House,Semi-Detached,2007-2011,Rented (private),Mains Gas,C,Yes,Nottingham
+P1550,Flat,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1552,Bungalow,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1553,House,End-Terrace,1976-1982,Rented (social),Community Heating,C,Yes,Nottingham
+P1554,House,Semi-Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1555,Bungalow,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1556,Flat,Not Recorded,2012-2021,Rented (social),Mains Gas,B,Yes,Nottingham
+P1559,House,Semi-Detached,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P1560,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P1561,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1562,Bungalow,Semi-Detached,1996-2002,Rented (social),Electricity,D,No,Nottingham
+P1563,Flat,Mid-Terrace,1996-2002,Rented (private),Electricity,B,No,Nottingham
+P1564,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,D,Yes,Nottingham
+P1567,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1568,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1570,House,Semi-Detached,2012 onwards,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1571,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1572,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1573,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1574,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1575,Flat,Not Recorded,2012-2021,Rented (social),Mains Gas,C,Yes,Nottingham
+P1576,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1577,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1578,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1580,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1582,House,Enclosed End-Terrace,1983-1990,Owner-occupied,Electricity,E,Yes,Nottingham
+P1583,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1584,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1585,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1586,House,Mid-Terrace,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1588,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1589,Bungalow,End-Terrace,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1590,House,End-Terrace,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1592,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,C,No,Nottingham
+P1597,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1598,House,End-Terrace,2003-2006,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1599,House,Mid-Terrace,2003-2006,Rented (private),Mains Gas,C,Yes,Nottingham
+P1600,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1602,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1603,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1604,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P1605,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1606,House,Semi-Detached,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P1607,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1610,Flat,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1611,House,Mid-Terrace,1900-1929,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P1612,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1613,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1614,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P1615,Flat,Semi-Detached,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P1616,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1617,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1618,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1619,Flat,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,No,Nottingham
+P1620,House,End-Terrace,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1621,Flat,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1622,Flat,Not Recorded,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1623,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1624,Flat,End-Terrace,1900-1929,Rented (private),Mains Gas,E,Yes,Nottingham
+P1627,Flat,Not Recorded,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1628,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1630,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1632,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1633,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1634,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1635,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1637,House,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1638,House,Semi-Detached,1976-1982,Rented (private),Mains Gas,D,Yes,Nottingham
+P1639,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P1640,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1642,Bungalow,Semi-Detached,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P1643,Flat,Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1644,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1645,House,Mid-Terrace,1983-1990,Rented (private),Mains Gas,D,Yes,Nottingham
+P1646,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1647,Bungalow,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1648,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1649,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1650,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1651,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1652,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1653,Flat,End-Terrace,2007-2011,Rented (private),Electricity,C,No,Nottingham
+P1654,House,Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1655,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,E,Yes,Nottingham
+P1656,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1658,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1659,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1661,House,Semi-Detached,1996-2002,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1662,Flat,Mid-Terrace,2003-2006,Rented (private),Electricity,B,No,Nottingham
+P1663,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1664,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1665,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1666,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P1667,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1668,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1669,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1670,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1671,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1673,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1674,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1675,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1676,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1677,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1678,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1680,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P1681,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1683,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P1685,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1686,Flat,Not Recorded,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1687,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1688,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1689,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1691,Flat,Detached,2012 onwards,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1692,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1693,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1694,House,End-Terrace,1950-1966,Owner-occupied,Electricity,E,Yes,Nottingham
+P1695,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1696,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P1697,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1698,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1699,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1700,House,Detached,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1701,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1702,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1703,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1704,House,Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1706,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1707,House,Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1708,Flat,Detached,1950-1966,Rented (social),Community Heating,G,No,Nottingham
+P1709,Flat,End-Terrace,1983-1990,Owner-occupied,Mains Gas,C,No,Nottingham
+P1710,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1711,Flat,Not Recorded,2012-2021,Rented (private),Mains Gas,C,Yes,Nottingham
+P1712,House,End-Terrace,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P1713,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1714,House,End-Terrace,1950-1966,Rented (social),Other,C,Yes,Nottingham
+P1716,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1717,Flat,Enclosed End-Terrace,1991-1995,Owner-occupied,Electricity,C,No,Nottingham
+P1718,House,End-Terrace,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1719,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1720,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1721,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1722,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1723,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1724,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1726,Flat,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1727,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1728,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1729,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1730,House,Detached,1983-1990,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1731,Maisonette,End-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1733,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P1734,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1735,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1737,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1738,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1740,House,End-Terrace,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P1741,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1742,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1743,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1744,Bungalow,Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1745,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1746,Bungalow,Detached,1950-1966,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P1748,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1749,House,End-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1750,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1751,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1752,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1753,House,Semi-Detached,1930-1949,Rented (social),Other,G,Yes,Nottingham
+P1754,Bungalow,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1756,House,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1757,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1758,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1759,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1760,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1762,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1763,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1764,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1765,House,Detached,1930-1949,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1767,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1769,Bungalow,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1770,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1771,Flat,Not Recorded,1930-1949,Rented (private),Mains Gas,C,Yes,Nottingham
+P1772,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1773,House,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P1774,House,End-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1775,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1776,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1777,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1778,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1780,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1781,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1784,Flat,Semi-Detached,2003-2006,Rented (social),Electricity,C,No,Nottingham
+P1785,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P1787,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1788,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1789,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1790,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1791,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1792,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1793,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1794,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1795,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1796,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1797,House,Mid-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1799,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P1801,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1802,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1803,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1804,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1806,Flat,Semi-Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1807,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1808,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1809,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1810,Maisonette,End-Terrace,1950-1966,Rented (social),Community Heating,C,No,Nottingham
+P1811,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P1813,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,B,Yes,Nottingham
+P1814,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1815,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1816,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1817,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P1819,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P1820,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1821,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1822,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1823,Flat,Not Recorded,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P1824,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1825,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1826,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1827,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1828,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1830,Flat,Enclosed End-Terrace,1991-1995,Rented (social),Mains Gas,C,No,Nottingham
+P1831,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1833,House,Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1834,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1835,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1837,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1839,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1840,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1841,Flat,Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1842,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P1843,House,End-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1844,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1845,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P1846,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1847,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P1848,Flat,Not Recorded,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1849,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1850,House,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1851,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1852,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1853,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1854,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1855,House,Mid-Terrace,1967-1975,Not defined - use in the case of a new dwelling for which the intended tenure in not known. It is not to be used for an existing dwelling,Mains Gas,C,Yes,Nottingham
+P1856,Bungalow,Detached,1996-2002,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1857,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1858,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P1859,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1860,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1861,Flat,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1862,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1863,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1864,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1865,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1866,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1867,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1868,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1869,House,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1872,Flat,Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1874,Flat,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1875,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1876,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1877,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1878,Flat,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1880,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1881,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1882,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1883,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1884,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1885,House,End-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P1886,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P1887,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1888,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1889,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1890,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1891,House,End-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1892,Flat,Not Recorded,1996-2002,Rented (private),Mains Gas,B,Yes,Nottingham
+P1893,House,Mid-Terrace,2012 onwards,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1894,House,Mid-Terrace,1967-1975,Rented (private),Mains Gas,C,Yes,Nottingham
+P1895,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1896,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1897,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1898,Flat,End-Terrace,1967-1975,Rented (social),Community Heating,C,Yes,Nottingham
+P1899,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1901,Flat,Enclosed End-Terrace,1996-2002,Rented (private),Mains Gas,B,Yes,Nottingham
+P1903,House,Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P1904,House,End-Terrace,1976-1982,Rented (private),Mains Gas,D,Yes,Nottingham
+P1905,House,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P1906,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1907,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1909,Flat,End-Terrace,1976-1982,Rented (social),Electricity,D,No,Nottingham
+P1910,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1911,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,D,No,Nottingham
+P1912,Flat,Not Recorded,1996-2002,Owner-occupied,Electricity,C,No,Nottingham
+P1914,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1915,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1916,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1917,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1918,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P1919,Flat,End-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P1920,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P1921,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1923,House,Semi-Detached,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1925,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1926,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1927,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1930,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1931,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1932,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1934,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1935,House,End-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1937,House,End-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1938,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1940,House,End-Terrace,1976-1982,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1942,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1943,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1944,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1945,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1947,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P1948,Flat,Not Recorded,1900-1929,Rented (social),Electricity,D,Yes,Nottingham
+P1949,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1950,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1951,Bungalow,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P1952,Bungalow,Semi-Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P1953,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1954,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1955,House,End-Terrace,1930-1949,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P1958,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1960,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P1961,Flat,Not Recorded,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P1962,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1964,Flat,Enclosed End-Terrace,2007-2011,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1965,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1966,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1967,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1968,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1969,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1971,Flat,Mid-Terrace,2003-2006,Rented (private),Electricity,B,No,Nottingham
+P1972,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1973,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P1974,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1975,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P1977,Flat,Not Recorded,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P1979,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P1980,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1981,Bungalow,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1982,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1983,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P1984,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P1986,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P1987,House,Mid-Terrace,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P1988,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1989,Flat,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P1990,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1991,House,Detached,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P1992,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P1993,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1994,House,Semi-Detached,2012-2021,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P1995,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P1997,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P2001,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P2002,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2003,House,Semi-Detached,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P2004,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2005,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2006,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2007,Flat,Not Recorded,2012-2021,Rented (private),Mains Gas,B,Yes,Nottingham
+P2008,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2009,House,Mid-Terrace,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2010,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2011,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2012,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2013,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2014,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2015,House,End-Terrace,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P2016,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2018,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2019,House,End-Terrace,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2020,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2021,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2022,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2024,House,Detached,2012 onwards,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P2025,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2026,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2027,House,Mid-Terrace,1976-1982,Owner-occupied,Electricity,E,No,Nottingham
+P2028,House,Mid-Terrace,1983-1990,Rented (private),Mains Gas,C,Yes,Nottingham
+P2029,Flat,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2032,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2033,Bungalow,Semi-Detached,2012-2021,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2034,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2035,Maisonette,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2036,House,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2038,House,End-Terrace,1900-1929,Rented (private),Mains Gas,E,Yes,Nottingham
+P2040,House,Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2041,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2042,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2043,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2044,House,Semi-Detached,1996-2002,Rented (private),Mains Gas,C,Yes,Nottingham
+P2045,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2046,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2047,Flat,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2049,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2050,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2051,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2052,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2053,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2054,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2055,Flat,Mid-Terrace,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P2057,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2059,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P2060,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2063,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2064,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2065,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P2066,Flat,Enclosed Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,No,Nottingham
+P2067,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2068,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2069,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2071,Bungalow,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2072,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2074,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2076,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2077,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2079,Flat,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2080,Flat,Not Recorded,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2081,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2082,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2084,Flat,Semi-Detached,2007-2011,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P2085,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2086,Flat,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2087,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2088,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2089,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2090,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2091,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,No,Nottingham
+P2092,House,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2093,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2095,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2096,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P2097,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2099,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2100,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2102,House,Mid-Terrace,1967-1975,Owner-occupied,Electricity,E,No,Nottingham
+P2103,House,Semi-Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2104,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2105,House,Mid-Terrace,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P2106,Flat,Not Recorded,2012-2021,Rented (private),Mains Gas,C,Yes,Nottingham
+P2107,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2109,Flat,End-Terrace,2007-2011,Rented (private),Electricity,B,No,Nottingham
+P2110,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2111,House,Mid-Terrace,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2112,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2113,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2114,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P2115,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2116,Flat,Semi-Detached,2012 onwards,Rented (social),Mains Gas,B,No,Nottingham
+P2117,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2119,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2120,Flat,Not Recorded,2003-2006,Rented (private),Mains Gas,C,Yes,Nottingham
+P2122,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2123,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P2124,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2126,House,Semi-Detached,1996-2002,Rented (private),Mains Gas,D,Yes,Nottingham
+P2128,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2129,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2130,Bungalow,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P2131,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P2133,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P2134,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2135,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2138,House,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2140,Flat,Mid-Terrace,1991-1995,Rented (social),Mains Gas,C,No,Nottingham
+P2141,Flat,End-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P2142,House,Semi-Detached,2012 onwards,Rented (social),Mains Gas,C,Yes,Nottingham
+P2143,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,F,Yes,Nottingham
+P2144,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2145,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2146,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2147,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2148,Bungalow,End-Terrace,1967-1975,Owner-occupied,Electricity,D,No,Nottingham
+P2149,House,End-Terrace,2003-2006,Rented (social),Mains Gas,C,Yes,Nottingham
+P2150,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2151,House,Semi-Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P2152,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2153,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2154,House,End-Terrace,1967-1975,Rented (social),Community Heating,D,No,Nottingham
+P2155,Bungalow,Semi-Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2156,Flat,Not Recorded,1900-1929,Rented (private),Electricity,C,No,Nottingham
+P2157,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2158,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2159,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2160,Flat,Semi-Detached,1996-2002,Rented (private),Mains Gas,B,Yes,Nottingham
+P2161,Flat,Semi-Detached,2012 onwards,Rented (social),Mains Gas,B,Yes,Nottingham
+P2162,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P2163,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2166,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2167,House,Detached,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2169,Bungalow,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2170,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2171,House,Semi-Detached,2012 onwards,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2172,House,Semi-Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2173,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2175,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2176,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P2177,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,B,Yes,Nottingham
+P2178,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2179,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2181,House,Semi-Detached,1991-1995,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2182,House,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P2184,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2185,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2186,Flat,Mid-Terrace,1950-1966,Rented (social),Electricity,C,No,Nottingham
+P2187,Bungalow,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P2188,Flat,Not Recorded,1900-1929,Owner-occupied,Electricity,C,No,Nottingham
+P2189,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P2190,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2191,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2192,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P2193,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2194,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2195,Flat,End-Terrace,1983-1990,Rented (social),Mains Gas,C,No,Nottingham
+P2196,House,Semi-Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2197,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2198,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P2199,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2200,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P2201,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P2202,House,Mid-Terrace,2012-2021,Owner-occupied,Mains Gas,B,Yes,Nottingham
+P2204,House,Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2205,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2206,Flat,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2207,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2208,House,Semi-Detached,1976-1982,Rented (private),Mains Gas,C,Yes,Nottingham
+P2209,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2210,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2213,House,End-Terrace,2007-2011,Rented (private),Mains Gas,C,Yes,Nottingham
+P2215,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2216,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2217,Flat,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2218,Flat,Semi-Detached,1976-1982,Rented (social),Community Heating,C,No,Nottingham
+P2219,Bungalow,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2220,Flat,End-Terrace,2007-2011,Owner-occupied,Electricity,C,No,Nottingham
+P2221,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2223,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2224,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2226,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2227,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2228,Maisonette,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2229,Flat,Not Recorded,2012-2021,Rented (private),Electricity,C,No,Nottingham
+P2230,Flat,Not Recorded,2012-2021,Rented (social),Mains Gas,C,Yes,Nottingham
+P2232,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2234,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2235,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2236,Bungalow,End-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2238,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2240,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2241,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2243,Flat,End-Terrace,1967-1975,Rented (social),Community Heating,C,Yes,Nottingham
+P2244,House,Detached,1991-1995,Rented (private),Mains Gas,D,Yes,Nottingham
+P2245,Maisonette,Mid-Terrace,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2246,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P2248,House,Semi-Detached,1967-1975,Owner-occupied,Electricity,F,No,Nottingham
+P2249,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2250,House,Mid-Terrace,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2251,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2253,House,Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2254,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2255,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P2257,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2258,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2259,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2260,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2261,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2262,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,D,Yes,Nottingham
+P2263,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2264,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2265,Bungalow,Detached,1991-1995,Rented (social),Community Heating,D,No,Nottingham
+P2266,House,Semi-Detached,1991-1995,Rented (private),Mains Gas,C,Yes,Nottingham
+P2268,Bungalow,Detached,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2270,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2271,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2272,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,Yes,Nottingham
+P2273,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P2274,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2275,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2276,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2277,Flat,Not Recorded,1900-1929,Rented (private),Electricity,C,No,Nottingham
+P2279,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2281,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2282,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2284,House,End-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2285,House,Semi-Detached,2012 onwards,Rented (social),Mains Gas,B,Yes,Nottingham
+P2287,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2288,Flat,End-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P2289,House,End-Terrace,1967-1975,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2290,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2291,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2292,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2293,House,Mid-Terrace,1950-1966,Rented (private),Mains Gas,D,Yes,Nottingham
+P2294,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2295,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2296,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2297,Flat,Semi-Detached,1900-1929,Owner-occupied,Electricity,D,No,Nottingham
+P2298,House,End-Terrace,1967-1975,Rented (private),Mains Gas,D,Yes,Nottingham
+P2299,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2301,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2303,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P2304,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2305,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,No,Nottingham
+P2306,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2307,House,End-Terrace,2003-2006,Rented (private),Mains Gas,C,Yes,Nottingham
+P2309,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2310,Bungalow,Semi-Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P2311,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P2312,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P2315,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P2316,Bungalow,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2317,House,Semi-Detached,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2318,Flat,Not Recorded,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P2319,Bungalow,Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P2322,House,Semi-Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2323,House,End-Terrace,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2324,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2325,House,Semi-Detached,1996-2002,Rented (social),Electricity,B,No,Nottingham
+P2326,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2327,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2328,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2329,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2330,House,Mid-Terrace,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2331,House,End-Terrace,1967-1975,Rented (social),Mains Gas,D,Yes,Nottingham
+P2333,House,Enclosed Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2334,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2335,Bungalow,Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P2337,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,No,Nottingham
+P2338,House,Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2339,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2340,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2342,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2343,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2344,House,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2345,House,Mid-Terrace,before 1900,Rented (private),Mains Gas,C,Yes,Nottingham
+P2346,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2347,Flat,End-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2348,Flat,Not Recorded,2003-2006,Rented (private),Electricity,C,No,Nottingham
+P2349,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2350,Flat,Not Recorded,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2351,Flat,End-Terrace,2007-2011,Rented (private),Electricity,B,No,Nottingham
+P2352,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2353,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2354,Flat,Mid-Terrace,2007-2011,Owner-occupied,Electricity,C,No,Nottingham
+P2355,House,Semi-Detached,1967-1975,Rented (social),Community Heating,D,No,Nottingham
+P2356,House,End-Terrace,1930-1949,Rented (social),Electricity,E,Yes,Nottingham
+P2357,House,End-Terrace,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2358,House,Semi-Detached,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2359,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2361,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P2362,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2363,House,Semi-Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P2364,House,End-Terrace,1900-1929,Rented (social),Electricity,F,No,Nottingham
+P2365,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2366,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2367,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2368,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2369,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2370,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2371,House,Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2372,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2373,House,End-Terrace,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2374,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2375,House,Mid-Terrace,1976-1982,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2376,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2377,Flat,Mid-Terrace,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P2378,House,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2380,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2381,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2382,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2383,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2384,Flat,Mid-Terrace,1976-1982,Rented (social),Community Heating,B,No,Nottingham
+P2386,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2387,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2388,House,Mid-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2389,Bungalow,End-Terrace,1991-1995,Rented (social),Mains Gas,D,Yes,Nottingham
+P2390,Flat,Mid-Terrace,2012 onwards,Rented (private),Electricity,C,No,Nottingham
+P2391,House,Mid-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2392,Flat,Semi-Detached,1996-2002,Rented (social),Mains Gas,C,Yes,Nottingham
+P2393,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2394,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2396,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2398,House,Detached,2003-2006,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2399,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2400,House,Mid-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2402,Flat,Semi-Detached,1900-1929,Rented (social),Mains Gas,C,No,Nottingham
+P2403,House,Mid-Terrace,1900-1929,Rented (social),Mains Gas,C,Yes,Nottingham
+P2404,House,Semi-Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2405,Bungalow,Mid-Terrace,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2408,House,Semi-Detached,1930-1949,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2409,House,End-Terrace,2012-2021,Rented (private),Mains Gas,C,Yes,Nottingham
+P2410,Flat,End-Terrace,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2411,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2412,Flat,Detached,1983-1990,Rented (social),Mains Gas,C,Yes,Nottingham
+P2413,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P2414,Flat,Not Recorded,1967-1975,Rented (social),Electricity,D,No,Nottingham
+P2416,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2417,House,Mid-Terrace,before 1900,Rented (social),Mains Gas,C,Yes,Nottingham
+P2418,House,Mid-Terrace,2012 onwards,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2419,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2420,House,End-Terrace,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P2421,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P2423,House,Semi-Detached,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2424,Flat,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2425,Flat,Not Recorded,2007-2011,Rented (social),Mains Gas,C,Yes,Nottingham
+P2426,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2427,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2429,House,Mid-Terrace,1967-1975,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2430,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2432,Flat,Mid-Terrace,1991-1995,Rented (private),Electricity,B,No,Nottingham
+P2433,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,B,Yes,Nottingham
+P2434,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2435,House,Semi-Detached,1967-1975,Rented (social),Mains Gas,C,Yes,Nottingham
+P2436,Flat,End-Terrace,1900-1929,Rented (private),Mains Gas,C,Yes,Nottingham
+P2437,House,Mid-Terrace,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2440,House,End-Terrace,1900-1929,Rented (private),Mains Gas,E,Yes,Nottingham
+P2441,Bungalow,End-Terrace,1950-1966,Rented (social),Mains Gas,B,Yes,Nottingham
+P2443,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,E,Yes,Nottingham
+P2444,Flat,Semi-Detached,1991-1995,Rented (social),Mains Gas,C,Yes,Nottingham
+P2446,House,End-Terrace,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2447,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2448,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2449,House,End-Terrace,1976-1982,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2451,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,D,Yes,Nottingham
+P2453,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2454,House,Semi-Detached,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2456,House,End-Terrace,2003-2006,Owner-occupied,Mains Gas,E,Yes,Nottingham
+P2458,Bungalow,Detached,1976-1982,Rented (social),Mains Gas,B,Yes,Nottingham
+P2459,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2460,House,Mid-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2463,House,End-Terrace,1900-1929,Rented (private),Mains Gas,D,Yes,Nottingham
+P2464,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2465,House,End-Terrace,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2466,Flat,Not Recorded,2003-2006,Owner-occupied,Electricity,C,No,Nottingham
+P2467,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,D,Yes,Nottingham
+P2469,House,Semi-Detached,1900-1929,Rented (social),Mains Gas,E,Yes,Nottingham
+P2470,Flat,Semi-Detached,1900-1929,Rented (private),Electricity,C,Yes,Nottingham
+P2471,Bungalow,Detached,1983-1990,Rented (social),Mains Gas,D,Yes,Nottingham
+P2472,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2474,House,Semi-Detached,1950-1966,Rented (private),Mains Gas,C,Yes,Nottingham
+P2476,Flat,Semi-Detached,1983-1990,Rented (social),Electricity,D,Yes,Nottingham
+P2477,House,Detached,1950-1966,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2478,House,End-Terrace,1900-1929,Owner-occupied,Mains Gas,D,Yes,Nottingham
+P2480,Flat,Not Recorded,1976-1982,Rented (social),Mains Gas,C,Yes,Nottingham
+P2481,House,Mid-Terrace,before 1900,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2482,House,End-Terrace,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2484,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,C,Yes,Nottingham
+P2486,House,End-Terrace,1983-1990,Owner-occupied,Electricity,C,No,Nottingham
+P2488,House,Semi-Detached,1983-1990,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2491,House,Detached,1930-1949,Rented (private),Mains Gas,D,Yes,Nottingham
+P2494,House,End-Terrace,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
+P2495,Flat,Not Recorded,2007-2011,Owner-occupied,Electricity,C,No,Nottingham
+P2496,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,D,Yes,Nottingham
+P2497,House,Mid-Terrace,1950-1966,Owner-occupied,Mains Gas,C,Yes,Nottingham
+P2499,House,Semi-Detached,1950-1966,Rented (social),Mains Gas,C,Yes,Nottingham
+P2501,House,Semi-Detached,1930-1949,Rented (social),Mains Gas,D,Yes,Nottingham
