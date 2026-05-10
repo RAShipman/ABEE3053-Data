@@ -1,55 +1,45 @@
 cluster,category,count,category_type
-0,1900-1929,8,construction_age
-0,1930-1949,7,construction_age
-0,1950-1966,7,construction_age
-0,1967-1975,1,construction_age
-0,1976-1982,7,construction_age
-0,1983-1990,1,construction_age
-0,2003-2006,2,construction_age
-0,2007-2011,1,construction_age
-0,2012 onwards,1,construction_age
-0,2012-2021,1,construction_age
-0,before 1900,7,construction_age
-1,1900-1929,52,construction_age
-1,1930-1949,91,construction_age
-1,1950-1966,32,construction_age
-1,1967-1975,17,construction_age
-1,1976-1982,13,construction_age
-1,1983-1990,13,construction_age
-1,1991-1995,5,construction_age
-1,2003-2006,4,construction_age
-1,2007-2011,1,construction_age
-1,before 1900,5,construction_age
-2,1900-1929,4,construction_age
-2,1930-1949,3,construction_age
-2,1950-1966,5,construction_age
-2,1967-1975,3,construction_age
-2,1976-1982,2,construction_age
-3,1900-1929,23,construction_age
-3,1930-1949,36,construction_age
-3,1950-1966,44,construction_age
-3,1967-1975,22,construction_age
-3,1976-1982,23,construction_age
-3,1983-1990,12,construction_age
-3,1991-1995,8,construction_age
-3,1996-2002,8,construction_age
-3,2003-2006,12,construction_age
+0,1900-1929,51,construction_age
+0,1930-1949,30,construction_age
+0,1950-1966,9,construction_age
+0,1967-1975,8,construction_age
+0,1976-1982,2,construction_age
+0,before 1900,6,construction_age
+1,1900-1929,1,construction_age
+1,1930-1949,2,construction_age
+1,1950-1966,4,construction_age
+1,1967-1975,1,construction_age
+1,1991-1995,1,construction_age
+1,2012 onwards,1,construction_age
+2,1900-1929,11,construction_age
+2,1930-1949,14,construction_age
+2,1950-1966,7,construction_age
+2,1967-1975,1,construction_age
+2,before 1900,2,construction_age
+3,1900-1929,15,construction_age
+3,1930-1949,126,construction_age
+3,1950-1966,54,construction_age
+3,1967-1975,36,construction_age
+3,1976-1982,47,construction_age
+3,1983-1990,21,construction_age
+3,1991-1995,19,construction_age
+3,1996-2002,12,construction_age
+3,2003-2006,7,construction_age
 3,2007-2011,6,construction_age
-3,2012 onwards,1,construction_age
-3,2012-2021,8,construction_age
-3,before 1900,5,construction_age
-0,Bungalow,1,property_type
-0,Flat,2,property_type
-0,House,39,property_type
-0,Maisonette,1,property_type
-1,Bungalow,30,property_type
-1,Flat,23,property_type
-1,House,178,property_type
-1,Maisonette,2,property_type
-2,Bungalow,2,property_type
-2,Flat,5,property_type
-2,House,10,property_type
-3,Bungalow,26,property_type
-3,Flat,58,property_type
-3,House,121,property_type
+3,2012 onwards,3,construction_age
+3,2012-2021,3,construction_age
+3,before 1900,1,construction_age
+0,Bungalow,4,property_type
+0,Flat,6,property_type
+0,House,94,property_type
+0,Maisonette,2,property_type
+1,Bungalow,1,property_type
+1,Flat,3,property_type
+1,House,6,property_type
+2,Bungalow,1,property_type
+2,Flat,4,property_type
+2,House,30,property_type
+3,Bungalow,61,property_type
+3,Flat,22,property_type
+3,House,264,property_type
 3,Maisonette,3,property_type
