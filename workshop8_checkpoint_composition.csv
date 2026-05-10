@@ -1,45 +1,22 @@
-cluster,category,count,category_type
-0,1900-1929,51,construction_age
-0,1930-1949,30,construction_age
-0,1950-1966,9,construction_age
-0,1967-1975,8,construction_age
-0,1976-1982,2,construction_age
-0,before 1900,6,construction_age
-1,1900-1929,1,construction_age
-1,1930-1949,2,construction_age
-1,1950-1966,4,construction_age
-1,1967-1975,1,construction_age
-1,1991-1995,1,construction_age
-1,2012 onwards,1,construction_age
-2,1900-1929,11,construction_age
-2,1930-1949,14,construction_age
-2,1950-1966,7,construction_age
-2,1967-1975,1,construction_age
-2,before 1900,2,construction_age
-3,1900-1929,15,construction_age
-3,1930-1949,126,construction_age
-3,1950-1966,54,construction_age
-3,1967-1975,36,construction_age
-3,1976-1982,47,construction_age
-3,1983-1990,21,construction_age
-3,1991-1995,19,construction_age
-3,1996-2002,12,construction_age
-3,2003-2006,7,construction_age
-3,2007-2011,6,construction_age
-3,2012 onwards,3,construction_age
-3,2012-2021,3,construction_age
-3,before 1900,1,construction_age
-0,Bungalow,4,property_type
-0,Flat,6,property_type
-0,House,94,property_type
-0,Maisonette,2,property_type
-1,Bungalow,1,property_type
-1,Flat,3,property_type
-1,House,6,property_type
-2,Bungalow,1,property_type
-2,Flat,4,property_type
-2,House,30,property_type
-3,Bungalow,61,property_type
-3,Flat,22,property_type
-3,House,264,property_type
-3,Maisonette,3,property_type
+cluster,day_of_week,count
+0,Friday,84
+0,Monday,82
+0,Saturday,2
+0,Sunday,3
+0,Thursday,84
+0,Tuesday,86
+0,Wednesday,77
+1,Friday,5
+1,Monday,8
+1,Saturday,72
+1,Sunday,69
+1,Thursday,2
+1,Tuesday,4
+1,Wednesday,7
+2,Friday,16
+2,Monday,14
+2,Saturday,31
+2,Sunday,33
+2,Thursday,18
+2,Tuesday,14
+2,Wednesday,20
